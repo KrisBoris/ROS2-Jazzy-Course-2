@@ -5,5 +5,7 @@
     <xacro:include filename="robot_base.xacro"/>
     <xacro:include filename="robot_base_gazebo.xacro"/>
     <xacro:include filename="camera.xacro"/>
+    <xacro:include filename="robot_arm.xacro"/>
+    <xacro:include filename="robot_arm_gazebo.xacro"/>
     
 </robot>
